@@ -115,3 +115,12 @@ In addition, the Android application allows users to utilize their own statistic
 
 <br/>
 <br/>
+
+---
+
+<br/>
+
+🌎 [README.md in English](https://github.com/oss-inc/.github/blob/main/profile/README.md)  
+🇰🇷 [README.md in Korean](https://github.com/oss-inc/.github/blob/main/profile/README_KO.md)
+
+<br/>
