@@ -1,6 +1,14 @@
 # MoWA
 **Mo**notoring the elder with **W**i-Fi sensing and **A**I
 
+
+<br/>
+
+🌎 [README.md in English](https://github.com/oss-inc/.github/blob/main/profile/README.md)  
+🇰🇷  [README.md in Korean](https://github.com/oss-inc/.github/blob/main/profile/README_KO.md)
+
+<br/>
+
 <!-- Skill -->
 <div>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -116,11 +124,4 @@ In addition, the Android application allows users to utilize their own statistic
 <br/>
 <br/>
 
----
 
-<br/>
-
-🌎 [README.md in English](https://github.com/oss-inc/.github/blob/main/profile/README.md)  
-🇰🇷 [README.md in Korean](https://github.com/oss-inc/.github/blob/main/profile/README_KO.md)
-
-<br/>
